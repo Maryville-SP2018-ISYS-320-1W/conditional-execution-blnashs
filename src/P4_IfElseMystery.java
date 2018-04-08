@@ -16,7 +16,7 @@
 public class P4_IfElseMystery {
 
 	public static void main(String[] args) {
-		// Put your call to ifElseMyster2 here
+		//ifElseMystery(10, 2);
 
 	}
 	
